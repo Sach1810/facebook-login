@@ -1,0 +1,25 @@
+{
+  "name": "facebook-auth-fun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sach1810/facebook-login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sach1810/facebook-login/issues"
+  },
+  "homepage": "https://github.com/Sach1810/facebook-login#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.1.0"
+  }
+}
